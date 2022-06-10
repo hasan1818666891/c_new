@@ -18,5 +18,7 @@ $ git clone https://github.com/AngCyber/c_new
 ```shell
 $ cd c_new
 $ git pull
-$ python crack.p```
+$ python crack.p
+```
+
 ##### Thank you for your support
