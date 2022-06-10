@@ -17,7 +17,7 @@ $ git clone https://github.com/AngCyber/c_new
 ##### Run Script
 ```shell
 $ cd c_new
-$ python crack.p
+$ python crack.py
 ```
 ##### Contact & Social Media
 ```shell
