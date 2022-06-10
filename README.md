@@ -17,8 +17,11 @@ $ git clone https://github.com/AngCyber/c_new
 ##### Run Script
 ```shell
 $ cd c_new
-$ git pull
 $ python crack.p
 ```
-
-##### Thank you for your support
+##### Contact & Social Media
+```shell
+• Instagram : Aangxd.Qwerty_
+• Facebook : Facebook.com/Aang.Qwerty69
+• WhatsApp : +628xxxxxxxxxx
+```
